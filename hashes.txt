@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Latido prohibido
+
+This log tracks the cryptographic history and versioning for the song **Latido prohibido** (latido-prohibido).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-17T17:11:28.123980 | `v1` | `1efd532836ded08d4feb559348800513bc22c852cde54b1e927f189c13aeca53` | `6269fb5c50a4c84ec225f1879e47e6444697fa4eeeaf6143f3222ff34f17623e` | `2026-06-17_latido-prohibido-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

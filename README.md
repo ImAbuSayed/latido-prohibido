@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/latido-prohibido/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Latido prohibido](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/latido-prohibido/) |
+| **Get License** | [Official Music Licensing for Latido prohibido](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/latido-prohibido/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `1efd532836ded08d4feb559348800513bc22c852cde54b1e927f189c13aeca53` |
 | **Timestamp** | June 17, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
