@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/latido-prohibido/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Latido prohibido](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/latido-prohibido/) |
+| **Get License** | [Obtain a Music License for Latido prohibido](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/latido-prohibido/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Nena, cuando tú me miras la ciudad se enciende
+> Hay un fuego en tus caderas que nadie comprende
+> Nos perdemos en la disco, el humo nos esconde
+> Y este deseo que me mata sabe bien por dónde
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
